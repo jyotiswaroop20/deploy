@@ -26,5 +26,4 @@ This is a **static website practice project** created and deployed to understand
 Learning static website structure, navigation, and deployment basics.
 ```
 Website Link - https://jyotiswaroop20.github.io/deploy/index.html
-
 ```
